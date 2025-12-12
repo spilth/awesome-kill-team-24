@@ -15,10 +15,11 @@ A curated list of Kill team 2024 resources.
 
 - [Command Point](https://discord.gg/ssqmXghxv5)
 
-## Team Builders
+## Game & Team Managers
 
 - [KTCards](https://apps.apple.com/us/app/ktcards/id6741010104) - Companion app for Kill Team
 - [KTDash](https://ktdash.app) - KTDash is a free web-based application for running your KillTeam games. Manage rosters and operatives, keep track of Wounds, CP, TP, and VP, and explore other players' rosters.
+- [Kill Team BattleKit](https://battlekit.killteam.ru) - Web-based rules, ops and game management.
 - [New Recruit](https://www.newrecruit.eu) - New Recruit is a modern, free, web based army builder.
 
 ## Datacards & Reference Sheets
@@ -28,7 +29,7 @@ A curated list of Kill team 2024 resources.
 
 ## Datacard Generators
 
-- [Kill Team 2024 Datacard Editor](https://www.kttools.app/KTDataCardEditor.html) - 
+- [Kill Team 2024 Datacard Editor](https://www.kttools.app/KTDataCardEditor.html)
 - [KTGEN](https://killteamdatacardgen.netlify.app) - Double-Sided Datacard Generator
 
 ## News & Articles
