@@ -1,6 +1,6 @@
 # Awesome Kill Team 24
 
-A curated list of Kill team 2024 resources.
+A curated list of Kill Team 2024 resources.
 
 ## Official Resources
 
